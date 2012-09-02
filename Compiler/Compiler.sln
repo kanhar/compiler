@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompilerGUI", "CompilerGUI\CompilerGUI.csproj", "{22D3CCD5-AB2D-44DC-9865-7A224A0E2BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csproj", "{092EC4DC-D160-49D7-BD6E-1A8DA6163BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D3CCD5-AB2D-44DC-9865-7A224A0E2BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D3CCD5-AB2D-44DC-9865-7A224A0E2BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D3CCD5-AB2D-44DC-9865-7A224A0E2BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D3CCD5-AB2D-44DC-9865-7A224A0E2BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092EC4DC-D160-49D7-BD6E-1A8DA6163BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092EC4DC-D160-49D7-BD6E-1A8DA6163BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092EC4DC-D160-49D7-BD6E-1A8DA6163BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092EC4DC-D160-49D7-BD6E-1A8DA6163BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

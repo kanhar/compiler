@@ -1,0 +1,20 @@
+﻿var ntimes : integer;
+var x : integer;
+var y : integer;
+var progEnded : string;
+var m : array[1..5] of integer;
+
+
+y = 0 + 0;
+m[2] = 25;
+ntimes = 3;
+x = 0;
+
+progEnded = "Program Ended";
+
+for x := 0 to ntimes do
+begin
+   y=1;	
+end;
+print y;
+

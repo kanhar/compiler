@@ -1,0 +1,5 @@
+C:\Users\kmunshi\Desktop\WebMSIL\WebMSIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kmunshi\Desktop\WebMSIL\WebMSIL\bin\WebMSIL.dll
+C:\Users\kmunshi\Desktop\WebMSIL\WebMSIL\bin\WebMSIL.pdb
+C:\Users\kmunshi\Desktop\WebMSIL\WebMSIL\obj\Debug\WebMSIL.dll
+C:\Users\kmunshi\Desktop\WebMSIL\WebMSIL\obj\Debug\WebMSIL.pdb
